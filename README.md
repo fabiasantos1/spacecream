@@ -1,7 +1,7 @@
 <strong> <h1 align="center"> SPACE CREAM</h1></strong>
 
 <p align="center">
-<img src=".github/capa.svg" alt="Demonstração do projeto" width="100%" />
+<img src=".github/capa.png" alt="Demonstração do projeto" width="100%" />
 </p>
 
 
